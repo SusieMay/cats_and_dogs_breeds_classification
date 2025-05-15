@@ -1,4 +1,4 @@
-# Cats and Dogs Breed Classification – Oxford-IIIT Pet Dataset
+# Cats and Dogs Breed Classification
 
 This project focuses on the classification of dog and cat breeds using the Oxford-IIIT Pet Dataset. It includes a complete end-to-end pipeline: data preparation, visualization, model training, evaluation, and performance analysis using both a custom CNN and transfer learning with ResNet18.
 
